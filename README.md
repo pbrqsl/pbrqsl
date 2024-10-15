@@ -27,5 +27,5 @@
 ---
 
 ## Get in Touch:
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/pbronikowski/)
+- **LinkedIn**: (https://www.linkedin.com/in/pbronikowski/)
 - **Email**: pbrqsl@gmail.com
