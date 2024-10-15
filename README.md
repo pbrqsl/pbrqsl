@@ -27,6 +27,5 @@
 ---
 
 ## Get in Touch:
-- **LinkedIn**: [Your LinkedIn](#)
-- **Portfolio**: [Your Portfolio](#)
-- **Email**: your.email@example.com
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/pbronikowski/)
+- **Email**: pbrqsl@gmail.com
