@@ -20,9 +20,9 @@
 ---
 
 ## Projects & Contributions:
-- **[Event Organizer](#)**: A Django-based event management platform where users can create events and assign participants.
+- **[Event Organizer](https://github.com/pbrqsl/losuj_to)**: A Django-based event management platform where users can create events and assign participants.
 - **[Web Scraper](#)**: A Python web scraper that collects data from school portals like 'Librus Portal'.
-- **[Data Analysis Scripts](#)**: SQL and PowerShell scripts for data reporting and analysis in enterprise environments.
+
 
 ---
 
